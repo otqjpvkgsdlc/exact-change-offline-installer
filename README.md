@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Personal+Finance-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Finance+App-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Exact Change Free Installer** — Exact Change is a straightforward personal finance and budget tracking application for macOS. Works without internet access, no account required. Full offline installation.
+**💻 Exact Change Free Installer** — Exact Change is a macOS personal expense tracking app for recording and categorizing daily spending. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Exact Change
 
-Exact Change is a straightforward personal finance and budget tracking application for macOS. Track income, expenses, and account balances with a simple transaction register interface. Create budget categories, reconcile accounts, and generate spending reports. Exact Change targets users who want basic personal finance management without the complexity or subscription cost of full-featured finance apps.
+Exact Change is a macOS personal expense tracking app for recording and categorizing daily spending. It provides a simple transaction register, category summaries, and basic reporting for tracking where money goes without complex budgeting features.
 
 ---
 
 ## ❌ Problem: Exact Change is hard to access
 
-- **macOS Only** — No Windows or cross-platform version
-- **Feature Scope** — Basic feature set compared to full personal finance applications
-- **Investment Tracking** — Limited investment account management features
-- **Bank Sync** — Manual transaction entry; no automatic bank connection
+- **macOS Only** — No Windows or Android version
+- **Basic Features** — Very simple tracking; lacks budgeting, forecasting, and investment features
+- **Paid App** — Requires purchase from Mac App Store
+- **Limited Bank Integration** — Manual entry only; no automatic bank transaction import
 
 ---
 
@@ -121,7 +121,7 @@ Exact Change is a straightforward personal finance and budget tracking applicati
 
 ---
 
-**Exact Change Free Installer** — Exact Change is a straightforward personal finance and budget tracking application for macOS. Install without internet connection today!
+**Exact Change Free Installer** — Exact Change is a macOS personal expense tracking app for recording and categorizing daily spending. Install without internet connection today!
 
 <div align="center">
 
